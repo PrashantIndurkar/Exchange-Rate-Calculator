@@ -1,5 +1,7 @@
 ## Exchange Rate
 
+LIVE: [https://exchange-rate-calculator-khaki.vercel.app/]
+
 Select countries to get the exchange rate for a specific amount
 
 ## Project Specifications
